@@ -53,42 +53,13 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="/assets/pdf/slt18_towards.pdf">Towards Fluent Translations from Disfluent Speech</a>
+        <a target="_blank" href="https://www.researchgate.net/profile/Leena-Jaganathan/publication/329417179_A_Survey_on_Face_Detection_and_Recognition_Techniques_for_Application_in_Educational_Institutions/links/5c07b97ca6fdcc315f9e2d2f/A-Survey-on-Face-Detection-and-Recognition-Techniques-for-Application-in-Educational-Institutions.pdf">A Survey on Face Detection and Recognition Techniques for Application in Educational Institutions</a>
         <paper>
-          <authors><u>Elizabeth Salesky</u>, Susanne Burger, Alex Waibel</authors>
-        <venue>SLT 2018</venue>
+          <authors>Leena Jaganathan, Mayumbo Nyirenda, Jackson Phiri <u>Claytone Sikasote</u></authors>
+        <venue>ZAPUC 2018</venue>
         </paper>
       </td>
       <td>
-        <ul>
-          <li><a target="_blank" href="https://github.com/isl-mt/fluent-fisher">data</a></li>
-          <li><a target="_blank" href="https://github.com/esalesky/fisher-mapping">code</a></li>
-          <li><a target="_blank" href="/assets/pdf/slt18_poster.pdf">poster</a></li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-    <thead>
-    <tr>
-      <th style="text-align: left">2018</th>
-      <th style="text-align: left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a target="_blank" href="/assets/pdf/slt18_towards.pdf">Towards Fluent Translations from Disfluent Speech</a>
-        <paper>
-          <authors><u>Elizabeth Salesky</u>, Susanne Burger, Alex Waibel</authors>
-        <venue>SLT 2018</venue>
-        </paper>
-      </td>
-      <td>
-        <ul>
-          <li><a target="_blank" href="https://github.com/isl-mt/fluent-fisher">data</a></li>
-          <li><a target="_blank" href="https://github.com/esalesky/fisher-mapping">code</a></li>
-          <li><a target="_blank" href="/assets/pdf/slt18_poster.pdf">poster</a></li>
-        </ul>
       </td>
     </tr>
   </tbody>
