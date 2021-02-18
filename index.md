@@ -3,7 +3,7 @@ layout: default
 ---
 
 <span style="font-weight: bold; font-size: 16px;">
-  [[Publications]](#publications) · <a href="/assets/pdf/Salesky_CV.pdf" target="_blank">[CV]</a>
+  [[Publications]](#publications) · [[News]](#News) · <a href="/assets/pdf/Salesky_CV.pdf" target="_blank">[CV]</a>
 </span>
 
 ### About Me
@@ -45,3 +45,5 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
     </tr>
   </tbody>
 </table>
+
+### News
