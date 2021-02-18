@@ -18,19 +18,6 @@ Before grad school, I worked at MIT Lincoln Laboratory in the Human Language Tec
 I graduated from Dartmouth College in 2012, where I studied Math and Linguistics.
 My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) compared unsupervised segmentation methods on a set of unrelated languages with Ann Irvine.
 
-When not at my computer, I like to [learn languages](https://www.duolingo.com/esalesky), run long distances, and bike to ice cream!
-
-<div class="card">
-  <img src="assets/img/hp.jpg" alt="Zauberer" style="width:100%">
-</div>
-<div class="card">
-  <img src="assets/img/kepler.jpg" alt="Kepler Track" style="width:100%">
-</div>
-<div class="card">
-  <img src="assets/img/eiskaffee.jpg" alt="Eiskaffee" style="width:100%">
-</div>
-
-
 ### Publications
 
 <table>
