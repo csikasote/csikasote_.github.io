@@ -8,7 +8,7 @@ layout: default
 
 ### Introduction
 
-I am a masters student pursuing the [African Masters of Machine Intelligence](https://www.aimsammi.org/) at [Africa Institute of Mathematical Sciences](https://aims.ac.rw/). For my final research project, I am being advised by [Antonios Anastasopoulos](#). Generally, I am interested in the application of machine and deep learning approches to speech and language processing particularly in low-resource setting. I am also interested in Computer Vision, Representation Learning for NLP and Multitask Transfer Learning in NLP.
+I am a masters student pursuing the [African Masters of Machine Intelligence](https://www.aimsammi.org/) at [Africa Institute of Mathematical Sciences](https://aims.ac.rw/). For my final research project, I am privileged to advised by [Dr. Antonios Anastasopoulos](#). Generally, I am interested in the application of machine and deep learning approches to speech and language processing particularly in low-resource setting. I am also interested in Computer Vision, Representation Learning for NLP and Multitask Transfer Learning in NLP.
 
 Previously I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was advised by Alex Waibel, and often worked with Alan Black and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), which I was lucky to visit in summers. 
 My research focused on different aspects of speech and text translation, including phoneme-informed ST models, optimizing BPE segmentation online during MT training, and disfluency removal ([new dataset here!](https://github.com/isl-mt/fluent-fisher))
