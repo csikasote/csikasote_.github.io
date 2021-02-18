@@ -6,10 +6,9 @@ layout: default
   [[Publications]](#publications) · [[News]](#News) · <a href="/assets/pdf/Salesky_CV.pdf" target="_blank">[CV]</a>
 </span>
 
-### About Me
+### Introduction
 
-I am a masters student at the [African Masters of Machine Intelligence](https://www.aimsammi.org/) at [Africa Institute of Mathematical Sciences](https://aims.ac.rw/), working with [Antonios Anastasopoulos](#). 
-Generally, I am interested in speech and text translation, language variation, and low-resource & multilingual speech and language processing.
+I am a masters student at the [African Masters of Machine Intelligence](https://www.aimsammi.org/) at [Africa Institute of Mathematical Sciences](https://aims.ac.rw/) where I was advised by [Antonios Anastasopoulos](#). Generally, I am interested in the application of machine and deep learning approches to speech and language processing particularly in low-resource setting. I am also interested in Computer Vision, Representation Learning for NLP and Multitask Transfer Learning in NLP.
 
 Previously I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was advised by Alex Waibel, and often worked with Alan Black and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), which I was lucky to visit in summers. 
 My research focused on different aspects of speech and text translation, including phoneme-informed ST models, optimizing BPE segmentation online during MT training, and disfluency removal ([new dataset here!](https://github.com/isl-mt/fluent-fisher))
