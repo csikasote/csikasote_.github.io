@@ -1,3 +1,3 @@
-# Elizabeth Salesky
+# Claytone Sikasote
 
 Personal website 
