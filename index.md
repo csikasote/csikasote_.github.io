@@ -44,6 +44,54 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
       </td>
     </tr>
   </tbody>
+  <thead>
+    <tr>
+      <th style="text-align: left">2018</th>
+      <th style="text-align: left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/slt18_towards.pdf">Towards Fluent Translations from Disfluent Speech</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Susanne Burger, Alex Waibel</authors>
+        <venue>SLT 2018</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="https://github.com/isl-mt/fluent-fisher">data</a></li>
+          <li><a target="_blank" href="https://github.com/esalesky/fisher-mapping">code</a></li>
+          <li><a target="_blank" href="/assets/pdf/slt18_poster.pdf">poster</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+    <thead>
+    <tr>
+      <th style="text-align: left">2018</th>
+      <th style="text-align: left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/slt18_towards.pdf">Towards Fluent Translations from Disfluent Speech</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Susanne Burger, Alex Waibel</authors>
+        <venue>SLT 2018</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="https://github.com/isl-mt/fluent-fisher">data</a></li>
+          <li><a target="_blank" href="https://github.com/esalesky/fisher-mapping">code</a></li>
+          <li><a target="_blank" href="/assets/pdf/slt18_poster.pdf">poster</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ### News
