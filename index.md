@@ -32,7 +32,7 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
         <a target="_blank" href="https://arxiv.org/pdf/2102.04889.pdf">BembaSpeech: A Speech recognition Corpus for the Bemba Language</a>
         <paper>
           <authors><u>Claytone Sikasote</u>, Antonios Anastasopoulos</authors>
-        <venue>ArXiv, preprint 2021</venue>
+        <venue>ArXiv 2021</venue>
         </paper>
       </td>
       <td>
