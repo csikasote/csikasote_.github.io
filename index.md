@@ -30,10 +30,10 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="/assets/pdf/sigtyp_st2020.pdf">SIGTYP 2020 Shared Task: Prediction of Typological Features</a>
+        <a target="_blank" href="/assets/pdf/sigtyp_st2020.pdf">BembaSpeech: A Speech recognition Corpus for the Bemba Language</a>
         <paper>
-          <authors>Johannes Bjerva, <u>Elizabeth Salesky</u>, Sabrina J. Mielke, Aditi Chaudhary, Giuseppe G. A. Celano, Edoardo M. Ponti, Ekaterina Vylomova, Ryan Cotterell, Isabelle Augenstein</authors>
-        <venue>SIGTYP 2020</venue>
+          <authors><u>Claytone Sikasote</u>, Antonios Anastasopoulos</authors>
+        <venue>ArXiv, preprint 2021</venue>
         </paper>
       </td>
       <td>
