@@ -23,14 +23,14 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">2020</th>
+      <th style="text-align: left">2021</th>
       <th style="text-align: left"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="/assets/pdf/sigtyp_st2020.pdf">BembaSpeech: A Speech recognition Corpus for the Bemba Language</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2102.04889.pdf">BembaSpeech: A Speech recognition Corpus for the Bemba Language</a>
         <paper>
           <authors><u>Claytone Sikasote</u>, Antonios Anastasopoulos</authors>
         <venue>ArXiv, preprint 2021</venue>
@@ -38,8 +38,8 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
       </td>
       <td>
         <ul>
-          <li><a target="_blank" href="https://sigtyp.github.io/st2020.html">site</a></li>
-          <li><a target="_blank" href="https://github.com/sigtyp/ST2020">data</a></li>
+          <li><a target="_blank" href="https://github.com/csikasote/BembaASR">code</a></li>
+          <li><a target="_blank" href="https://github.com/csikasote/BembaSpeech">data</a></li>
         </ul>
       </td>
     </tr>
