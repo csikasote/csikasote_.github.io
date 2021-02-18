@@ -55,7 +55,7 @@ My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/
       <td>
         <a target="_blank" href="https://www.researchgate.net/profile/Leena-Jaganathan/publication/329417179_A_Survey_on_Face_Detection_and_Recognition_Techniques_for_Application_in_Educational_Institutions/links/5c07b97ca6fdcc315f9e2d2f/A-Survey-on-Face-Detection-and-Recognition-Techniques-for-Application-in-Educational-Institutions.pdf">A Survey on Face Detection and Recognition Techniques for Application in Educational Institutions</a>
         <paper>
-          <authors>Leena Jaganathan, Mayumbo Nyirenda, Jackson Phiri <u>Claytone Sikasote</u></authors>
+          <authors>Leena Jaganathan, Mayumbo Nyirenda, Jackson Phiri, <u>Claytone Sikasote</u></authors>
         <venue>ZAPUC 2018</venue>
         </paper>
       </td>
