@@ -3,7 +3,7 @@ layout: default
 ---
 
 <span style="font-weight: bold; font-size: 16px;">
-  [[Publications]](#publications) · [[News]](#News) · <a href="/assets/pdf/#" target="_blank">[CV]</a>
+  [[Publications]](#publications) · [[News]](#News) · <a href="/assets/pdf/Sikasote_CV.pdf" target="_blank">[CV]</a>
 </span>
 
 ### Introduction
