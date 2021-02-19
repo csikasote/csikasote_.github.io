@@ -8,7 +8,7 @@ layout: default
 
 ### Introduction
 
-<div style="text-align: right"> I am a masters student pursuing the <a href="https://www.aimsammi.org">African Masters of Machine Intelligence</a> at <a href="https://aims.ac.rw/">Africa Institute of Mathematical Sciences</a>. I am lucky to be supervised by <a href="#">Antonios Anastasopoulos</a> for my final year project. Generally, I am interested in the application of machine and deep learning approches to speech and language processing particularly in low-resource setting. I am also interested in Computer Vision, Representation Learning for NLP and Multitask Transfer Learning in NLP.
+<div style="text-align: right"> I am a masters student pursuing the Google and Facebook sponsored <a href="https://www.aimsammi.org">African Masters of Machine Intelligence</a> programme at <a href="https://aims.ac.rw/">Africa Institute of Mathematical Sciences</a> centre in Rwanda. I am lucky to be supervised by <a href="#">Antonios Anastasopoulos</a> for my final year project. Generally, I am interested in the application of machine and deep learning approches to speech and language processing particularly in low-resource setting. I am also interested in Computer Vision, Representation Learning for NLP and Multitask Transfer Learning in NLP.
 </div>
 ### Publications
 
