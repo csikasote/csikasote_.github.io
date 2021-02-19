@@ -8,7 +8,7 @@ layout: default
 
 ### Introduction
 
-I am a masters student pursuing the [African Masters of Machine Intelligence](https://www.aimsammi.org/) at [Africa Institute of Mathematical Sciences](https://aims.ac.rw/). I am privileged to advised by [Dr. Antonios Anastasopoulos](#) for my final year project. Generally, I am interested in the application of machine and deep learning approches to speech and language processing particularly in low-resource setting. I am also interested in Computer Vision, Representation Learning for NLP and Multitask Transfer Learning in NLP.
+I am a masters student pursuing the [African Masters of Machine Intelligence](https://www.aimsammi.org/) at [Africa Institute of Mathematical Sciences](https://aims.ac.rw/). I\`m lucky to be supervised by [Dr. Antonios Anastasopoulos](#) for my final year project. Generally, I am interested in the application of machine and deep learning approches to speech and language processing particularly in low-resource setting. I am also interested in Computer Vision, Representation Learning for NLP and Multitask Transfer Learning in NLP.
 
 ### Publications
 
