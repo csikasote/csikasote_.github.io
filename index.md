@@ -36,6 +36,25 @@ layout: default
       </td>
     </tr>
   </tbody>
+    <thead>
+    <tr>
+      <th style="text-align: left">2019</th>
+      <th style="text-align: left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://thescipub.com/pdf/jcssp.2019.1759.1779.pdf">Automated Fall Armyworm (Spodoptera frugiperda, J.E. Smith) Pheromone Trap Based on Machine Learning</a>
+        <paper>
+          <authors>Simon H. Chiwamba, Jackson Phiri, Philip O.Y. Nkunika, <u>Claytone Sikasote</u>, Monde M. Kabemba and Miyanda N. Moonga </authors>
+        <venue>JSSP 2019</venue>
+        </paper>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
   <thead>
     <tr>
       <th style="text-align: left">2018</th>
