@@ -3,7 +3,7 @@ layout: default
 ---
 
 <span style="font-weight: bold; font-size: 16px;">
-  [[Publications]](#publications) · [[News]](#) · [[Projects]](#) · <a href="/assets/pdf/Sikasote_CV.pdf" target="_blank">[CV]</a>
+  [[Publications]](#publications) · [[News]](#news) · [[Projects]](#) · <a href="/assets/pdf/Sikasote_CV.pdf" target="_blank">[CV]</a>
 </span>
 
 ### Introduction
@@ -77,3 +77,6 @@ layout: default
   </tbody>
 </table>
 
+### News
+
+- [March 2021] - Paper with Antonis [BembaSpeech: A Speech Recognition Corpus for the Bemba Language](https://arxiv.org/pdf/2102.04889.pdf) on building a speech dataset for Bemba language has been accepted at 2nd AfricaNLP workshop at EACL 2021!
