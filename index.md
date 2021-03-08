@@ -25,7 +25,7 @@ layout: default
         <a target="_blank" href="https://arxiv.org/pdf/2102.04889.pdf">BembaSpeech: A Speech Recognition Corpus for the Bemba Language</a>
         <paper>
           <authors><u>Claytone Sikasote</u>, Antonios Anastasopoulos</authors>
-        <venue>ArXiv Preprint 2021</venue>
+        <venue>Proceedings of the AfricaNLP workshop at EACL 2021</venue>
         </paper>
       </td>
       <td>
