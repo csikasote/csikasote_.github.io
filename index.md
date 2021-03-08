@@ -30,7 +30,6 @@ layout: default
       </td>
       <td>
         <ul>
-          <li><a target="_blank" href="#">[cite]</a></li>
           <li><a target="_blank" href="https://github.com/csikasote/BembaASR">[code]</a></li>
           <li><a target="_blank" href="https://github.com/csikasote/BembaSpeech">[data]</a></li>
         </ul>
