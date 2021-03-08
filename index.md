@@ -79,4 +79,4 @@ layout: default
 
 ### News
 
-- [March 2021] - Paper with Antonis [BembaSpeech: A Speech Recognition Corpus for the Bemba Language](https://arxiv.org/pdf/2102.04889.pdf) on building a speech dataset for Bemba language has been accepted at 2nd AfricaNLP workshop at EACL 2021!
+- [March 2021] - [Paper](https://arxiv.org/pdf/2102.04889.pdf) with [Antonis Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/) on building a speech dataset for Bemba language has been accepted at the 2nd AfricaNLP workshop at EACL 2021!
