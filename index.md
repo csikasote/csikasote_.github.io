@@ -91,6 +91,6 @@ layout: default
   </tbody>
 </table>
 
-### News
+## News
 
 - [March 2021] - [Paper](https://arxiv.org/pdf/2102.04889.pdf) with [Antonis Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/) on building a speech dataset for Bemba language has been accepted at the 2nd AfricaNLP workshop at EACL 2021!
