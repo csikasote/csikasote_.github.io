@@ -35,6 +35,7 @@ layout: default
         </ul>
       </td>
     </tr>
+    </body>
   <tbody>
     <tr>
       <td>
