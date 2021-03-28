@@ -32,6 +32,8 @@ layout: default
         <ul>
           <li><a target="_blank" href="https://github.com/csikasote/BembaASR">[code]</a></li>
           <li><a target="_blank" href="https://github.com/csikasote/BembaSpeech">[data]</a></li>
+          <li><a target="_blank" href=" ">[PPT]</a></li>
+          <li><a target="_blank" href=" ">[Video]</a></li>
         </ul>
       </td>
     </tr>
