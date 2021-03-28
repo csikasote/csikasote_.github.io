@@ -95,5 +95,5 @@ layout: default
 
 ## News
 
-- [21 March 2021] - Participated in the HuggingFace\s [open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages](https://discuss.huggingface.co/t/open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages/4467/270) where I fine-tuned [facebook/wav2vec2-large-xlsr-53](https://arxiv.org/abs/2006.13979) on Bemba language of Zambia using the [BembaSpeech](https://arxiv.org/pdf/2102.04889.pdf). The model can be accessed [here](https://huggingface.co/csikasote/wav2vec2-large-xlsr-bemba).
+- [21 March 2021] - Participated in the HuggingFace\`s [open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages](https://discuss.huggingface.co/t/open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages/4467/270) where I fine-tuned [facebook/wav2vec2-large-xlsr-53](https://arxiv.org/abs/2006.13979) on Bemba language of Zambia using the [BembaSpeech](https://arxiv.org/pdf/2102.04889.pdf). The model can be accessed [here](https://huggingface.co/csikasote/wav2vec2-large-xlsr-bemba).
 - [5 March 2021] - [Paper](https://arxiv.org/pdf/2102.04889.pdf) with [Antonis Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/) on building a speech dataset for Bemba language has been accepted at the 2nd AfricaNLP workshop at EACL 2021!
