@@ -35,6 +35,21 @@ layout: default
         </ul>
       </td>
     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://arxiv.org/pdf/2103.12028.pdf">Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets</a>
+        <paper>
+          <authors>Isaac Caswella, Julia Kreutzer, Lisa Wang, Ahsan Wahab, Daan van Esch, Nasanbayar Ulzii-Orshikh, Allahsera Tapo, Nishant Subramani, Artem Sokolov, <u>Claytone Sikasote</u>, Monang Setyawan, Supheakmungkol Sarin, Sokhar Samb, Benot Sagot, Clara Rivera, Annette Rios, Isabel Papadimitriou, Salomey Osei, Pedro Javier Ortiz Suarez, Iroro Orife, Kelechi Ogueji,Rubungo Andre Niyongabo, Toan Q. Nguyen, Mathias Muller, Andre Muller, Shamsuddeen Hassan Muhammad, Nanda Muhammad, Ayanda Mnyakeni, Jamshidbek Mirzakhalov, Tapiwanashe Matangira, Colin Leong, Nze Lawson, Sneha Kudugunta, Yacine Jernite, Mathias Jenny, Orhan Firat, Bonaventure F. P. Dossou, Sakhile Dlamini, Nisansa de Silva, Sakine C¸ abuk Ballık, Stella Biderman, Alessia Battisti, Ahmed Baruwa, Ankur Bapna, Pallavi Baljekar, Israel Abebe Azime, Ayodele Awokoya, Duygu Ataman, Orevaoghene Ahia, Oghenefego Ahia, Sweta Agrawal, Mofetoluwa Adeyemi</authors>
+        <venue>Proceedings of the 2nd AfricaNLP workshop at EACL 2021</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
   </tbody>
     <thead>
     <tr>
