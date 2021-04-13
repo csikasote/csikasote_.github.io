@@ -95,8 +95,10 @@ layout: default
 
 ### News
 
+- [06 April 2021] - Received sponsorship to the [AfricaNLP work @ EACL2021](https://sites.google.com/view/africanlp-workshop) to take place on April 19, 2021. The sponsorship covers registration costs for full conference registration EACL. 
+
 - [21 March 2021] - Participated in the HuggingFace\`s [open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages](https://discuss.huggingface.co/t/open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages/4467/270) where I fine-tuned [facebook/wav2vec2-large-xlsr-53](https://arxiv.org/abs/2006.13979) on Bemba language of Zambia using the [BembaSpeech](https://arxiv.org/pdf/2102.04889.pdf). The model can be accessed [here](https://huggingface.co/csikasote/wav2vec2-large-xlsr-bemba).
 
 - [11 March 2021] - Selected as a volunteer for the virtual [AISTATS 2021](https://aistats.org/aistats2021/) to take place on April 13-15, 2021.
 
-- [5 March 2021] - Two papers accepted at the 2nd AfricaNLP workshop co-located at EACL 2021. a) The [first paper](https://arxiv.org/pdf/2102.04889.pdf) with [Antonis Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/) on building a speech dataset for Bemba language and b) The [second paper](https://arxiv.org/pdf/2103.12028.pdf) with Masakhane on auditing of web-crawled multilingual dataset!
+- [05 March 2021] - Two papers accepted at the 2nd AfricaNLP workshop co-located at EACL 2021. a) The [first paper](https://arxiv.org/pdf/2102.04889.pdf) with [Antonis Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/) on building a speech dataset for Bemba language and b) The [second paper](https://arxiv.org/pdf/2103.12028.pdf) with Masakhane on auditing of web-crawled multilingual dataset!
