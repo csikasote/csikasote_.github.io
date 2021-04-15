@@ -95,6 +95,9 @@ layout: default
 
 ### News
 
+
+- [15 April 2021] - Selected as a volunteer for the virtual [9th International Conference on Learning Representations 2021](https://iclr.cc/) to take place on May 3-7, 2021.
+
 - [06 April 2021] - Received sponsorship to the [AfricaNLP work @ EACL2021](https://sites.google.com/view/africanlp-workshop) to take place on April 19, 2021. The sponsorship covers registration costs for full conference registration EACL. 
 
 - [21 March 2021] - Participated in the HuggingFace\`s [open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages](https://discuss.huggingface.co/t/open-to-the-community-xlsr-wav2vec2-fine-tuning-week-for-low-resource-languages/4467/270) where I fine-tuned [facebook/wav2vec2-large-xlsr-53](https://arxiv.org/abs/2006.13979) on Bemba language of Zambia using the [BembaSpeech](https://arxiv.org/pdf/2102.04889.pdf). The model can be accessed [here](https://huggingface.co/csikasote/wav2vec2-large-xlsr-bemba).
