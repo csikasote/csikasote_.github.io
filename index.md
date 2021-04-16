@@ -32,8 +32,8 @@ layout: default
         <ul>
           <li><a target="_blank" href="https://github.com/csikasote/BembaASR">[code]</a></li>
           <li><a target="_blank" href="https://github.com/csikasote/BembaSpeech">[data]</a></li>
-          <li><a target="_blank" href="https://drive.google.com/file/d/1VcYa_dSNvBbgWPAJ5DKJ48-vQPZ_h4Xc/view?usp=sharing">[Slides]</a></li>
-          <li><a target="_blank" href="https://youtu.be/KkffAt9-Agc">[Video]</a></li>
+          <li><a target="_blank" href="https://drive.google.com/file/d/1VcYa_dSNvBbgWPAJ5DKJ48-vQPZ_h4Xc/view?usp=sharing">[slides]</a></li>
+          <li><a target="_blank" href="https://youtu.be/KkffAt9-Agc">[video]</a></li>
           <li><a target="_blank" href="https://drive.google.com/file/d/1vaI63pojFDz28p07KNr0DJWKJfzXgwyn/view?usp=sharing">[poster]</a></li>
         </ul>
       </td>
