@@ -1,3 +1,0 @@
-# Claytone Sikasote
-
-Personal website 
